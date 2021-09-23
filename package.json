@@ -1,0 +1,16 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+
+  "author": "Toxik Devs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  }
+}
